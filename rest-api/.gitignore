@@ -1,7 +1,7 @@
 logs
 target
-/.metals
-/.vscode
+.metals
+.vscode
 /.bsp
 /.idea
 /.idea_modules
